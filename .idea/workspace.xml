@@ -64,7 +64,6 @@
       <change afterPath="$PROJECT_DIR$/../smartphone/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +128,7 @@
       <workItem from="1628490817674" duration="801000" />
       <workItem from="1629542661858" duration="44000" />
       <workItem from="1634563559903" duration="479000" />
-      <workItem from="1634566464117" duration="246000" />
+      <workItem from="1634566464117" duration="1481000" />
     </task>
     <servers />
   </component>

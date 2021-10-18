@@ -337,7 +337,7 @@ table {table-layout: fixed; width:100%}
 }
 
 .checklist{
-    background: url("/img/newyear.png") no-repeat ;
+    background: url("../img/newyear.png") no-repeat ;
     background-size: cover;
     background-color: black;
     font-family: "Graphik LCG";
